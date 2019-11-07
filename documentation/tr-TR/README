@@ -1,0 +1,15 @@
+Ercan Ersoy'un Mikrodenetleyici Tabanlı Sunucu Bilgisayarı
+
+Telif Hakkı (C) 2019 Ercan Ersoy (http://ercanersoy.net)
+
+Ercan Ersoy'un Mikrodenetleyici Tabanlı Sunucu Bilgisayarı; Arduino Uno R3,
+Arduino Ethernet Shield ve bir micro SD karttan oluşan bir sunucudur. DHCP'yi
+destekler.
+
+Bu proje MIT Lisansı altında lisanslanmıştır.
+
+Bu projenin yazılımı Webduino kütüphanesi gerektirir.
+
+Sürüm Geçmişi:
+
+  - 0.1 (21-10-2019): İlk sürüm

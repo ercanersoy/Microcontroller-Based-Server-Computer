@@ -1,0 +1,14 @@
+Ercan Ersoy's Microcontroller Based Server Computer
+
+Copyright (C) 2019 Ercan Ersoy (http://ercanersoy.net)
+
+Ercan Ersoy's Microcontroller Based Server Computer is server made of Arduino
+Uno R3, Arduino Ethernet Shield and an micro SD card. It supports DHCP.
+
+This project has licensed under MIT License.
+
+Software of this project requires Webduino Library.
+
+Verison History:
+
+  - 0.1 (10-21-2019): Initial version
